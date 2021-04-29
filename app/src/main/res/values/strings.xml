@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LO2-RegistrationForm</string>
+    <string name="btn_login"> Login </string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="tv_pas">Password</string>
+    <string name="tv_user">Username</string>
+
+</resources>
